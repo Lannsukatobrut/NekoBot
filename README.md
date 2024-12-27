@@ -7,30 +7,30 @@
 
 ```javascript
 {
-  message: Message { conversation: '>_ Welcome to NekoBot' },
+  message: Message { conversation: '>_ Welcome to 𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜' },
   type: 'conversation',
-  msg: '>_ Welcome to NekoBot',
+  msg: '>_ Welcome to 𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜',
   isMedia: false,
   key: {
-    remoteJid: '6285165556936@s.whatsapp.net',
-    participant: '6285165556936@s.whatsapp.net',
+    remoteJid: '6283111036395@s.whatsapp.net',
+    participant: '6283111036395@s.whatsapp.net',
     fromMe: false,
     id: '5780C33F89C0BE600B6D71DF79C4FC02'
   },
-  cht: '6285165556936@s.whatsapp.net',
+  cht: '6283111036395@s.whatsapp.net',
   fromMe: false,
   id: '5780C33F89C0BE600B6D71DF79C4FC02',
   device: 'android',
   isBot: false,
   isGroup: false,
-  participant: '6285165556936@s.whatsapp.net',
-  sender: '6285165556936@s.whatsapp.net',
+  participant: '6283111036395@s.whatsapp.net',
+  sender: '6283111036395@s.whatsapp.net',
   mentions: [],
-  body: '>_ Welcome to NekoBot',
+  body: '>_ Welcome to 𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜',
   prefix: '',
   command: '>_',
-  args: [ 'Welcome', 'to', 'NekoBot' ],
-  text: 'Welcome to NekoBot',
+  args: [ 'Welcome', 'to', '𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜' ],
+  text: 'Welcome to 𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜',
   isOwner: true,
   download: [AsyncFunction (anonymous)]
 }
@@ -41,12 +41,12 @@
 const fs = require('node:fs');
 
 const config = {
-    owner: ["6285215909004"],
-    name: "- nekoBot - Simple WhatsApp bot",
+    owner: ["6283111036395"],
+    name: "𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜",
     sessions: "sessions",
     sticker: {
-      packname: "Made by ",
-      author: "nekoBot"
+      packname: "𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜",
+      author: "𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜"
     },
    messages: {
       wait: "*( Loading )* Tunggu Sebentar...",
@@ -104,6 +104,6 @@ break
 ```
 ## 📢 Discussion 
 Jika ingin mengenal seputar Script ini lebih dalam lagi
-silahkan mampir ke komunitas kami[![WhatsApp Group](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ErlaFMvdnfu5OGxCVGJW8V)
-[![WhatsApp channel](https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VauJgduEwEjwwVwLnw37)
+silahkan mampir ke komunitas kami[![WhatsApp Group](https://img.𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜)](https://ch𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜)
+[![WhatsApp channel](https://img.𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜)](https://𝓂𝒶𝒹𝑒 𝒷𝑜𝓉 - 𝒞𝒽𝒾𝑜)
 
